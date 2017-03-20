@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MazeWalker
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MazeWalker\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MazeWalker()
+comment1.text=\r\n\ mazeWalker\ is\ the\ constructor\ for\ mazeWalker\ class\r\n\ @param\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ @param\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ checkWin()
+comment3.text=\r\n\ CheckWin\ will\ check\ if\ the\ player\ is\ touching\ the\ winning\ space\r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=boolean\ canMoveForward()
+comment4.text=\r\n\ canMoveForward\ will\ check\ if\ the\ player\ can\ move\ forward\r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ will\ return\ moveForward\r\n
+numComments=5
