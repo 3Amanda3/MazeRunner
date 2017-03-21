@@ -1,10 +1,10 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 import java.awt.*;
 /**
- * Write a description of class WinSpace here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Amanda Schepp
+ * Mr.Hardman
+ * Assignment #2
+ * March 20th
  */
 public class WinSpace extends Actor
 {
